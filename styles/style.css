@@ -1,1 +1,157 @@
-/* место для вашего кода */
+
+html {
+
+}
+  
+body {
+
+}
+
+h2 {
+color:brown;
+background-color: brown;
+}
+
+.header {
+
+
+}
+
+
+.header_logo {
+
+}
+
+.header_logo-image {
+  width: 129.11px;
+  height: 104.65px;
+
+}
+
+.header_menu {
+
+}
+
+.header_link-list {
+
+}
+
+.header_link-list_general {
+
+}
+
+.header_link-list_general_active {
+
+}
+
+.header_link-list_see_lots {
+
+}
+
+.header_link-list_see_lots_inactive {
+
+}
+
+.header_link-list_about {
+
+}
+
+.header_link-list_about_inactive {
+
+}
+
+
+.address header_adres {
+
+}
+
+.cover {
+
+}
+
+cover_backround
+
+
+cover_backround-image
+
+
+.description {
+
+
+}
+
+
+.lots {
+
+}
+
+.lots_heading {
+
+}
+
+.card_list-item {
+
+}
+
+.card-link {
+  
+}
+
+.card lot_film {
+  
+
+background-image: url(../images/card-lot-01.jpg);
+
+
+
+
+}
+
+overlay {
+
+}
+
+.card_title {
+
+}
+
+.card_text {
+
+}
+
+.card_list-item {
+
+}
+
+.card-link {
+
+}
+
+.card lot_book {
+
+}
+                
+.card lot_picture {
+
+}
+                
+.about {
+
+}
+
+.about_column {
+
+}
+
+.column {
+
+}
+
+.about_text {
+
+}
+
+.footer {
+
+}
+      
